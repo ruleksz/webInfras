@@ -22,3 +22,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 ?>
+    Hapus file [send_email.php]
